@@ -133,6 +133,7 @@ main {
     width: 100%;
     display: flex;
     justify-content: center;
+    border-bottom: 1px solid #fff;
 }
 
 p span {
