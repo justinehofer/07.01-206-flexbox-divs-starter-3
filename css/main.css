@@ -129,6 +129,10 @@ header h1 {
     font-size: 3em;
 }
 
+main {
+    width: 100%;
+}
+
 p span {
     font-family: 'Lora', sans-serif;
 }
