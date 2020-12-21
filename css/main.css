@@ -120,6 +120,7 @@ body {
 
 header, footer {
     width: 100%;
+    display: flex;
 }
 
 header h1 {
