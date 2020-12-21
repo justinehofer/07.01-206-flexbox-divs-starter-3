@@ -115,6 +115,7 @@ body {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
+  max-width: 1200px;
 }
 
 header h1 {
