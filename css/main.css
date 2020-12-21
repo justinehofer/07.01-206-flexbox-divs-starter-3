@@ -116,7 +116,7 @@ body {
   justify-content: space-between;
 }
 
-.div-1, .div-2, .div-3 {
+.flex-items {
   align-items: center;
   color: #fff;
   display: flex;
