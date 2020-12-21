@@ -116,6 +116,11 @@ body {
   justify-content: space-between;
 }
 
+header h1 {
+    font-family: 'Lora', sans-serif;
+    font-size: 3em;
+}
+
 .flex-items {
   align-items: center;
   color: #fff;
