@@ -109,7 +109,7 @@ body {
   height: 100%;
 }
 
-.wrapper {
+.flex-container {
   align-items: center;
   display: flex;
   flex-flow: row wrap;
