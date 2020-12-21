@@ -147,7 +147,6 @@ p span {
 .flex-items {
   align-items: center;
   border-bottom: 1px solid #555;
-  color: #fff;
   display: flex;
   font-size: 1em;
   justify-content: center;
