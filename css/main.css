@@ -118,6 +118,10 @@ body {
   max-width: 1200px;
 }
 
+header, footer {
+    width: 100%;
+}
+
 header h1 {
     font-family: 'Lora', sans-serif;
     font-size: 3em;
