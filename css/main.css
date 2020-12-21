@@ -121,6 +121,7 @@ body {
 header, footer {
     width: 100%;
     display: flex;
+    justify-content: flex-start;
 }
 
 header h1 {
