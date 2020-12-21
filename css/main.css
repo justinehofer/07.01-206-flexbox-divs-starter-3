@@ -122,6 +122,10 @@ header h1 {
     font-size: 3em;
 }
 
+p span {
+    font-family: 'Lora', sans-serif;
+}
+
 .flex-items {
   align-items: center;
   color: #fff;
