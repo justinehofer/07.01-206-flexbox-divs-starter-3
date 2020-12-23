@@ -107,7 +107,7 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
   padding: 2em;
   font-size: 1.25em;
-  
+  display: flex;
 }
 
 .flex-container {
