@@ -105,9 +105,10 @@ html {
 body {
   color: #fff;
   font-family: 'Source Sans Pro', sans-serif;
-  padding: 2em;
+  padding: 0em 2em;
   font-size: 1.25em;
   display: flex;
+  justify-content: center;
 }
 
 .flex-container {
