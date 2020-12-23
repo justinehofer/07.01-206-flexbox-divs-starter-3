@@ -232,6 +232,13 @@ p span {
    These examples override the primary ('mobile first') styles.
    Modify as content requires.
    ========================================================================== */
+
+@media all and (max-width: 768px) {
+    body {
+        padding: 1em;
+    }
+}
+
 @media (min-width: 1200px) {
     .flex-items {
         flex-basis: 30%;
