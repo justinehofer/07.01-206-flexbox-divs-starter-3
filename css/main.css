@@ -233,7 +233,7 @@ p span {
    Modify as content requires.
    ========================================================================== */
 @media all and (min-width: 1200px) {
-    .div-1, .div-2, .div-3 {
+    .flex-items {
         flex-basis: 30%;
     }
 
