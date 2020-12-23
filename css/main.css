@@ -237,6 +237,10 @@ p span {
         flex-basis: 30%;
         border-bottom: none;
     }
+
+    #div-2 p {
+        border-left: 1px solid #555;
+    }
 }
 
 @media print,
