@@ -235,6 +235,7 @@ p span {
 @media (min-width: 1200px) {
     .flex-items {
         flex-basis: 30%;
+        border-bottom: none;
     }
 }
 
